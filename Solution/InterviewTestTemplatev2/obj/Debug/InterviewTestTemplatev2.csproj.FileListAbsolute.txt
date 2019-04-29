@@ -1,0 +1,139 @@
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\ApplicationInsights.config
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.dll.config
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.pdb
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Antlr3.Runtime.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\EntityFramework.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\EntityFramework.SqlServer.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Web.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Newtonsoft.Json.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Helpers.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Mvc.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Optimization.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Razor.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Razor.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\WebGrease.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\EntityFramework.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\EntityFramework.SqlServer.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Helpers.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Mvc.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Optimization.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.Razor.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Razor.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Antlr3.Runtime.pdb
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Newtonsoft.Json.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Web.xml
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csproj.CoreCompileInputs.cache
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csproj.CopyComplete
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.dll
+C:\Projects\InterviewMVC\Synetec MVC Assesment\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.pdb
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\ApplicationInsights.config
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.dll.config
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.pdb
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Antlr3.Runtime.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.SqlServer.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Web.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Newtonsoft.Json.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Helpers.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Mvc.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Optimization.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Razor.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\WebGrease.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.SqlServer.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Helpers.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Mvc.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Optimization.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Razor.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Antlr3.Runtime.pdb
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Newtonsoft.Json.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Web.xml
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csproj.CoreCompileInputs.cache
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csproj.CopyComplete
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.dll
+C:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.pdb
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\ApplicationInsights.config
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.dll.config
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\InterviewTestTemplatev2.pdb
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Antlr3.Runtime.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.SqlServer.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Web.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Newtonsoft.Json.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Helpers.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Mvc.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Optimization.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Razor.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\WebGrease.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\EntityFramework.SqlServer.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Helpers.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Mvc.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Optimization.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.Razor.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Antlr3.Runtime.pdb
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Newtonsoft.Json.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\bin\Microsoft.AI.Web.xml
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csprojAssemblyReference.cache
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csproj.CoreCompileInputs.cache
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.csproj.CopyComplete
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.dll
+D:\Projects\Syntec\Solution\InterviewTestTemplatev2\obj\Debug\InterviewTestTemplatev2.pdb

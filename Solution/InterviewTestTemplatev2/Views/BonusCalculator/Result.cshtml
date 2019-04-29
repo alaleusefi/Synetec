@@ -1,0 +1,15 @@
+﻿@using InterviewTestTemplatev2.ViewModels;
+@using InterviewTestTemplatev2.Controllers;
+
+@model BonusCalculatorResult
+
+
+@{
+    ViewBag.Title = "Caclulate";
+}
+
+<h2>Bonus Pool Allocation</h2>
+
+<p>The bonus pool allocation for @Html.DisplayFor(model => model.hrEmployee.Full_Name) is: £@Html.DisplayFor(model => model.bonusPoolAllocation)</p>
+
+@Html.ActionLink("Click here to calculate for another employee", nameof(BonusCalculatorController.Input))
