@@ -28,21 +28,31 @@ namespace InterviewTestTemplatev2.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Calculate(BonusCalculatorInput model)
         {
-            int selectedEmployeeId = model.SelectedEmployeeId;
-            int totalBonusPool = model.BonusPoolAmount;
-            //TODO: Validate all incoming values from client side
-            //TODO: Use attributes built into the framework for validation
-
-            var selectedEmployee = HrEmployee.FindById(selectedEmployeeId);
-            var bonusAllocation = HrEmployee.CalculateBonus(model.SelectedEmployeeId, model.BonusPoolAmount);
-
-            var viewModel = new BonusCalculatorResult
+            if (ModelState.IsValid)
             {
-                hrEmployee = selectedEmployee,
-                bonusPoolAllocation = bonusAllocation
-            };
 
-            return View("Result", viewModel);
+                int selectedEmployeeId = model.SelectedEmployeeId;
+                int totalBonusPool = model.BonusPoolAmount;
+                //TODO: Validate all incoming values from client side
+                //TODO: Use attributes built into the framework for validation
+
+                var selectedEmployee = HrEmployee.FindById(selectedEmployeeId);
+                var bonusAllocation = HrEmployee.CalculateBonus(model.SelectedEmployeeId, model.BonusPoolAmount);
+
+                var viewModel = new BonusCalculatorResult
+                {
+                    hrEmployee = selectedEmployee,
+                    bonusPoolAllocation = bonusAllocation
+                };
+
+                return View("Result", viewModel);
+            }
+            else
+            {
+                model.AllEmployees = HrEmployee.GetEmployeeList();
+                return View("Input", model);
+
+            }
         }
     }
 }

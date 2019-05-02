@@ -172,6 +172,7 @@
     <Compile Include="Data\HrEmployee.cs">
       <DependentUpon>BonusPoolModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Logic\Attributes\ValidateAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
