@@ -30,11 +30,8 @@ namespace InterviewTestTemplatev2.Controllers
         {
             if (ModelState.IsValid)
             {
-
                 int selectedEmployeeId = model.SelectedEmployeeId;
                 int totalBonusPool = model.BonusPoolAmount;
-                //TODO: Validate all incoming values from client side
-                //TODO: Use attributes built into the framework for validation
 
                 var selectedEmployee = HrEmployee.FindById(selectedEmployeeId);
                 var bonusAllocation = HrEmployee.CalculateBonus(model.SelectedEmployeeId, model.BonusPoolAmount);

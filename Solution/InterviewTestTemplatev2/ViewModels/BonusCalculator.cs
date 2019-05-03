@@ -11,7 +11,7 @@ namespace InterviewTestTemplatev2.ViewModels
     {
         [Required(ErrorMessage = "{0} is mandatory.")]
         [Display(Name = "Pool amount")]
-        [Validate]
+        [PositiveNumber]
         public int BonusPoolAmount { get; set; }
 
         [Display(Name = "Employee name")]

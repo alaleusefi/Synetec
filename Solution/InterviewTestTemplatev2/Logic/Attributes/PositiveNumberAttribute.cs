@@ -6,7 +6,7 @@ using System.Web;
 
 namespace InterviewTestTemplatev2
 {
-    public class ValidateAttribute : ValidationAttribute
+    public class PositiveNumberAttribute : ValidationAttribute
     {
 
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)

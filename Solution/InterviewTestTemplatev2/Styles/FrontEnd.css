@@ -41,3 +41,8 @@ footer {
     bottom: 0px;
     left: 0px;
 }
+
+.field-validation-error {
+    font-size: 11px;
+    color: red;
+}
